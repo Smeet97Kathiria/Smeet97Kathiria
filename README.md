@@ -56,16 +56,11 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" style="vertical-align:top; margin:4px" height="100" width="100>
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
   
   </p>
-
-
-
-
-
 
 

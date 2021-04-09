@@ -47,22 +47,21 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" style="vertical-align:top; margin:4px">
-  <img src="https://www.google.com/search?q=airflow+svg&sxsrf=ALeKk00gAhc5qT6MxvUKMezIlpoRC_Oazw:1617994079286&tbm=isch&source=iu&ictx=1&fir=O--SpQ1NiUYsQM%252CkebSxaQ1vxpZDM%252C_&vet=1&usg=AI4_-kRStfc1fM_9VKoAVBOjdDkL5oJ5lg&sa=X&ved=2ahUKEwiIoODS6fHvAhUWqJ4KHRxRCJcQ9QF6BAgLEAE#imgrc=O--SpQ1NiUYsQM" alt="Airflow" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
-  
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
+  
+  </p>
 
 
 

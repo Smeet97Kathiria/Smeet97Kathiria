@@ -52,6 +52,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <br> 
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" style="vertical-align:top; margin:4px">
@@ -61,7 +62,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" style="vertical-align:top; margin:4px">    
                                                                                                                                      
-                                                                                                                                    
+   <br />                                                                                                                       
   
   </p>
 

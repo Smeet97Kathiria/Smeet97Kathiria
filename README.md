@@ -30,7 +30,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" />
+<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" />
 <p align="center">
   <h3> I'm Self-taught Data Engineer from United States.</h3>
 </p>
@@ -56,12 +56,7 @@
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemant&&show_icons=true&theme=radical"/>
-  </a>
 
-</p>
 
 <br />
 
@@ -73,8 +68,12 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" style="vertical-align:top; margin:4px">
+  <img src="https://code.iconify.design/1/1.0.7/iconify.min.js" alt="Airflow" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
+  
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
@@ -83,4 +82,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
+
+
 

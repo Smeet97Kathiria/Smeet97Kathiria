@@ -23,7 +23,7 @@
 <br />
 <img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" />
 <p align="center">
-  <h3> I'm Self-taught Data Engineer from United States.</h3>
+<!--   <h3> I'm from India living in USA.</h3> -->
 </p>
 
  - 🥀 Learning advanced data engineering using spark with AWS, Airflow, Redshift, Hadoop, Hive, AWS Glue, Pig, Sqoop, Snowflake and much more.

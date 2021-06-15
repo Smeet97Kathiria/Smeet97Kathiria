@@ -21,7 +21,7 @@
  
  
 <br />
-<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" />
+<img align="right" height="270px" width="270px" alt="GIF" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" />
 <p align="center">
 <!--   <h3> I'm from India living in USA.</h3> -->
 </p>

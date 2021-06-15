@@ -26,11 +26,11 @@
 <!--   <h3> I'm from India living in USA.</h3> -->
 </p>
 
- - 🥀 Learning advanced data engineering using spark with AWS, Airflow, Redshift, Hadoop, Hive, AWS Glue, Pig, Sqoop, Snowflake and much more.
+ - 🥀 Able to developed advanced data engineering pipelines using Spark with AWS, Airflow, Redshift, Hadoop, Hive, AWS Glue, Pig, Sqoop, Snowflake and much more.
    
 <!--  - 🏎  F1 FanBoi, Its going to be a dirty race.😼 -->
   
-- 👨🏻‍💻 I tackle big data, machine learning and cloud architecture problems with a lot of love and heart ❤️
+- 👨🏻‍💻 I like to tackle complex Data Engineering, Cloud Computing architecture problems to help businesses save cost on infrastructure and solve big data problems. 
 
 
  

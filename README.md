@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a >Smeet</a> <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a >Smeet</a> <img src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -22,7 +22,7 @@
  
 <br />
 
-
+<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" />
 <p align="center">
 <!--   <h3> I'm from India living in USA.</h3> -->
 </p>

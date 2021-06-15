@@ -21,14 +21,14 @@
  
  
 <br />
-<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" />
+<!-- <img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/2yrwFUDutWp7o5DIwP/giphy.gif" /> -->
 <p align="center">
 <!--   <h3> I'm from India living in USA.</h3> -->
 </p>
 
  - 🥀 Learning advanced data engineering using spark with AWS, Airflow, Redshift, Hadoop, Hive, AWS Glue, Pig, Sqoop, Snowflake and much more.
    
- - 🏎  F1 FanBoi, Its going to be a dirty race.😼
+<!--  - 🏎  F1 FanBoi, Its going to be a dirty race.😼 -->
   
 - 👨🏻‍💻 I tackle big data, machine learning and cloud architecture problems with a lot of love and heart ❤️
 

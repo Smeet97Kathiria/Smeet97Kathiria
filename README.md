@@ -20,7 +20,7 @@
 <!--   <h3> I'm from India living in USA.</h3> -->
 </p>
 
- - 🥀 Able to develop advanced data engineering pipelines using Spark, AWS, Airflow, Redshift, Hadoop, Hive, AWS Glue, Pig, Sqoop, Kafka and much more.
+ - 🌞 Able to develop advanced data engineering pipelines using Spark, AWS, Airflow, Redshift, Hadoop, Python, Terraform, AWS Glue, Flink, Kafka and much more.
    
 <!--  - 🏎  F1 FanBoi, Its going to be a dirty race.😼 -->
   

@@ -1,30 +1,38 @@
 <div align="center">
   <h1>Hi, I'm Smeet Kathiria 👋</h1>
-  <h3>Data Engineer / Analytics Engineer</h3>
-  <p>Python • SQL • Spark • Databricks • Snowflake • dbt • AWS • Azure • FHIR • HL7</p>
+  <h3>Product-Focused Software Engineer | Data & AI Platform Builder</h3>
+  <p>Python • SQL • AWS • Azure • Databricks • Snowflake • AI/LLMs • Product Thinking</p>
 </div>
 
 <br />
 
 ## About Me
 
-I’m a Data Engineer with 5+ years of experience building ETL/ELT pipelines, APIs, data quality checks, warehouse models, dashboards, and production support workflows.
+I’m a product-focused technologist with 5+ years of experience building software products, data platforms, and AI-driven solutions across healthcare, retail, media, and technology.
 
-My work focuses on building reliable data platforms that turn messy source data into trusted reporting, analytics, and operational datasets. I work across cloud data engineering, analytics engineering, API integrations, workflow orchestration, and data validation.
+My background spans software engineering, data, cloud, analytics, and AI, giving me the ability to bridge business goals and technical execution. I enjoy working with cross-functional teams to turn complex ideas into practical, scalable solutions that create value for users and organizations.
 
-I also built a healthcare interoperability project to apply data engineering patterns to FHIR APIs, HL7 v2 messages, clinical data validation, audit logs, and operational dashboards.
+I’m particularly interested in product management, platform products, data-driven decision making, and the growing role of AI in improving user experiences and business workflows. Whether it’s launching a new product, improving an existing platform, or solving a challenging business problem, I enjoy bringing people, technology, and strategy together to deliver meaningful outcomes.
+
+I’m always open to connecting with product leaders, engineers, founders, hiring teams, and professionals who are passionate about building great products and solving interesting problems.
 
 <br />
 
 ## Core Skills
 
-**Languages:** Python, SQL, R  
-**Data Engineering:** Spark, Airflow, Databricks, Snowflake, dbt, Delta Lake, ETL/ELT, REST APIs  
-**Cloud:** AWS, Azure, S3, Redshift, Synapse, Terraform, Docker  
-**Analytics:** Power BI, Tableau, KPI reporting, segmentation, data modeling  
-**Healthcare Data:** FHIR R4, HL7 v2, EMR/EHR concepts, ADT, ORU, PHI-aware workflows  
-**AI/ML:** LLMs, NLP, scikit-learn, feature engineering  
-**Support & Delivery:** Jira, Git, API debugging, UAT, documentation, production monitoring  
+Languages: Python, SQL, TypeScript, R
+
+Software & Platform Engineering: REST APIs, Microservices, Distributed Systems, System Design, Workflow Automation, Application Integration
+
+Data & Analytics: Databricks, Snowflake, Spark, dbt, Delta Lake, Data Modeling, ETL/ELT, Data Quality, Analytics Engineering
+
+Cloud & Infrastructure: AWS, Azure, Terraform, Docker, CI/CD, Cloud Architecture
+
+AI & Machine Learning: LLMs, NLP, Retrieval-Augmented Generation (RAG), Prompt Engineering, scikit-learn, AI Product Development
+
+Product & Strategy: Product Thinking, Stakeholder Management, Agile Delivery, Roadmapping, Data-Driven Decision Making, KPI Development
+
+Visualization & Insights: Power BI, Tableau, Business Intelligence, Experimentation, Reporting & Analytics
 
 <br />
 
@@ -35,33 +43,19 @@ I also built a healthcare interoperability project to apply data engineering pat
 
 <br />
 
-## Featured Project
-
-### FHIROps Console: Healthcare Interoperability Dashboard
-
-A healthcare data integration project that demonstrates real-world FHIR and HL7 data engineering workflows.
-
-- Ingests public FHIR resources and parses synthetic HL7 v2 ADT/ORU messages
-- Normalizes Patient, Encounter, Condition, Observation, and OBX result data into SQLite
-- Includes API-backed dashboard analytics, data quality checks, ETL audit records, and patient drill-down views
-- Documents Epic on FHIR sandbox readiness and production hardening considerations
-
-**Live Site:** https://fhirops-console.onrender.com  
-**GitHub:** https://github.com/Smeet97Kathiria/healthcare-fhir-etl
-
-<br />
-
 ## What I Like Working On
 
-- Building scalable data pipelines
-- Designing clean warehouse and analytics models
-- Debugging production data issues
-- Improving data quality and observability
-- Turning APIs and raw files into trusted datasets
-- Applying data engineering skills to healthcare interoperability problems
+- Building products that solve meaningful user and business problems
+- Designing scalable software and data platforms
+- Creating AI-powered experiences and workflows
+- Turning data into actionable insights and decisions
+- Bridging business strategy and technical execution
+- Working across engineering, product, and analytics teams
+- Improving operational efficiency through automation
+- Exploring healthcare, AI, and platform product innovation
 
 <br />
 
 <div align="center">
-  <strong>Python | SQL | Spark | Snowflake | dbt | Databricks | AWS | Azure | FHIR | HL7</strong>
+  <strong>Software Engineering | Product Thinking | Data Platforms | AI Solutions | Cloud Architecture | Analytics</strong>
 </div>
